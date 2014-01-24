@@ -1,0 +1,136 @@
+eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 24/01/2014 23:48:03
+#Cmp ( order = Reference )
+| C1         0.33uF      ; ~           
+| C2         0.1uF       ; ~           
+| C3         0.1uF       ; ~           
+| C4         0.1uF       ; ~           
+| C5         1uF         ; ~           
+| C6         0.1uF       ; ~           
+| C7         0.1uF       ; ~           
+| C8         47uF        ; ~           
+| D1         LED         ; ~           
+| D2         DIODE       ; ~           
+| D3         DIODE       ; ~           
+| D4         DIODE       ; ~           
+| K1         CONN_RE     ; ~           
+| L1         1mH         ; ~           
+| P1         DIL32_ARDUINONANO_30; ~           
+| P2         CONN_10     ; ~           
+| P3         CONN_2      ; ~           
+| P4         FAN         ; ~           
+| Q1         TIP120      ; TO220       
+| Q2         2N3904      ; ~           
+| R1         1K          ; ~           
+| R2         10R         ; ~           
+| R3         10R         ; ~           
+| R4         10R         ; ~           
+| R5         10R         ; ~           
+| R6         1K          ; ~           
+| R7         1K          ; ~           
+| R8         10R         ; ~           
+| R9         1M          ; ~           
+| R10        10R         ; ~           
+| R11        100R        ; ~           
+| R12        10R         ; ~           
+| R13        10R         ; ~           
+| R14        10R         ; ~           
+| R15        10K         ; ~           
+| R16        10R         ; ~           
+| R17        10K         ; ~           
+| R18        10K         ; ~           
+| R19        10K         ; ~           
+| R20        330K        ; ~           
+| R21        470R        ; ~           
+| R22        4.7K        ; ~           
+| R23        10K         ; ~           
+| R24        2.2K        ; ~           
+| R25        220R        ; ~           
+| R26        470R        ; ~           
+| R27        180K        ; ~           
+| R28        680K        ; ~           
+| R29        330K        ; ~           
+| R30        220R        ; ~           
+| R31        22K         ; ~           
+| R32        470K        ; ~           
+| R33        10K         ; ~           
+| R34        180K        ; ~           
+| R35        470K        ; ~           
+| R36        180K        ; ~           
+| RV1        10K         ; ~           
+| SW1        SPST        ; ~           
+| SW2        SPST        ; ~           
+| TH1        THERMISTOR  ; ~           
+| U1         LM7812      ; ~           
+| U2         LM358       ;             
+| U3         LM317T      ; TO-220      
+| U4         LM358       ;             
+#End Cmp
+
+#Cmp ( order = Value )
+| 0.1uF        C2        ; ~           
+| 0.1uF        C3        ; ~           
+| 0.1uF        C4        ; ~           
+| 0.1uF        C6        ; ~           
+| 0.1uF        C7        ; ~           
+| 0.33uF       C1        ; ~           
+| 1uF          C5        ; ~           
+| 47uF         C8        ; ~           
+| LED          D1        ; ~           
+| DIODE        D2        ; ~           
+| DIODE        D3        ; ~           
+| DIODE        D4        ; ~           
+| CONN_RE      K1        ; ~           
+| 1mH          L1        ; ~           
+| DIL32_ARDUINONANO_30 P1        ; ~           
+| CONN_10      P2        ; ~           
+| CONN_2       P3        ; ~           
+| FAN          P4        ; ~           
+| TIP120       Q1        ; TO220       
+| 2N3904       Q2        ; ~           
+| 10R          R2        ; ~           
+| 10R          R3        ; ~           
+| 10R          R4        ; ~           
+| 10R          R5        ; ~           
+| 10R          R8        ; ~           
+| 10R          R10       ; ~           
+| 10R          R12       ; ~           
+| 10R          R13       ; ~           
+| 10R          R14       ; ~           
+| 10R          R16       ; ~           
+| 100R         R11       ; ~           
+| 220R         R25       ; ~           
+| 220R         R30       ; ~           
+| 470R         R21       ; ~           
+| 470R         R26       ; ~           
+| 1K           R1        ; ~           
+| 1K           R6        ; ~           
+| 1K           R7        ; ~           
+| 2.2K         R24       ; ~           
+| 4.7K         R22       ; ~           
+| 10K          R15       ; ~           
+| 10K          R17       ; ~           
+| 10K          R18       ; ~           
+| 10K          R19       ; ~           
+| 10K          R23       ; ~           
+| 10K          R33       ; ~           
+| 22K          R31       ; ~           
+| 180K         R27       ; ~           
+| 180K         R34       ; ~           
+| 180K         R36       ; ~           
+| 330K         R20       ; ~           
+| 330K         R29       ; ~           
+| 470K         R32       ; ~           
+| 470K         R35       ; ~           
+| 680K         R28       ; ~           
+| 1M           R9        ; ~           
+| 10K          RV1       ; ~           
+| SPST         SW1       ; ~           
+| SPST         SW2       ; ~           
+| THERMISTOR   TH1       ; ~           
+| LM358        U2        ;             
+| LM358        U4        ;             
+| LM317T       U3        ; TO-220      
+| LM7812       U1        ; ~           
+#End Cmp
+
+#End List
